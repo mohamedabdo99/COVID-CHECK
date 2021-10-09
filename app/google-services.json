@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243588237903",
+    "project_id": "covide-check",
+    "storage_bucket": "covide-check.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243588237903:android:be6a8ea631e23ec87e783a",
+        "android_client_info": {
+          "package_name": "com.mohamed.abdo.myhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243588237903-6n9gkl9tn3j1cha9ggqv1js274dfkbjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohamed.abdo.myhealth",
+            "certificate_hash": "33a5f37e4a780a625e40061906c2d90ec4044204"
+          }
+        },
+        {
+          "client_id": "243588237903-n7frmj6657oh5g8ot5qv3fbbn8qm82c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIXGkdf1BTxMtTmiPcADYcZ2l-lSwG0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243588237903-n7frmj6657oh5g8ot5qv3fbbn8qm82c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

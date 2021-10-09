@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">COVID CHECK</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="question1">Have you been in contact with someone infected with
+        corona before</string>
+    <string name="question2">Do you have breathing difficulties ? </string>
+    <string name="question3">Do you have a high temperature of more than 38 degrees ? </string>
+    <string name="aboutcorona">Most common symptoms:
+fever
+cough
+tiredness
+loss of taste or smell
+Less common symptoms:
+sore throat
+headache
+aches and pains
+diarrhoea
+a rash on skin, or discolouration of fingers or toes
+red or irritated eyes
+Serious symptoms:
+difficulty breathing or shortness of breath
+loss of speech or mobility, or confusion
+chest pain
+Seek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility.
+People with mild symptoms who are otherwise healthy should manage their symptoms at home.
+On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days. </string>
+
+</resources>
